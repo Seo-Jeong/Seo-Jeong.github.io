@@ -13,7 +13,7 @@
          ·
          <span>
              <img src="assets/github-brands.svg" width="18px">
-             <a href="https://github.com/Seo-Jeong">CyC2018</a>
+             <a href="https://github.com/Seo-Jeong">Seo-Jeong</a>
          </span>
          ·
          <span>
